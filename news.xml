@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rom's newsletter.</title>
+  <link rel="related" href="https://mxbo.neocities.org/rss"/>
+  <link rel="self" href="https://mxbo.neocities.org/news.xml"/>
+<author>
+  <name>ROM</name>
+  <uri>http://mxbo.neocities.org</uri>
+  <email>mxromboo@gmail.com</email>
+</author>
+<id>tag:mxbo.neocities.org,2024-10-03:news</id>
+<icon>https://mxbo.neocities.org/img/icons/RomOS.png</icon>
+<logo>https://mxbo.neocities.org/img/icons/RomOS.png</logo>
+<rights type="html">
+<![CDATA[ © 2024 Mx. Romeo Bo (ROM). Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target='_blank' rel='noopener noreferrer'>CC BY-NC.SA 4.0</a>. ]]>
+</rights>
+<w:accentColor>7f00ff</w:accentColor>
+<w:cover image="http://mxbo.neocities.org/img/webstamp.gif"/>
+<w:icon>https://mxbo.neocities.org/img/icons/RomOS.png</w:icon>
+<w:logo>https://mxbo.neocities.org/img/icons/RomOS.png</w:logo>
+<w:partial>false</w:partial>
+<w:related layout="card" target="browser"/>
+<updated>2024-10-03T20:01:25-06:00</updated>
+<!--ENTRIES START-->
+<entry>
+  <title>V5.3</title>
+  <published>2025-02-02T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2025-02-02:n21</id>
+  <content type="html"><![CDATA[ <p><img src="https://i.imgur.com/ksvEd3v.png"></p><br><p>Hello!! It's been a while, I've had issues, like, things that need a bunch of TWs, probably. I may write about it in my journal.</p><p>Anyway, here are some updates!! Finally, after almost 3 months, damn.</p><p>Also, apparently there was another update I did (V5.2) that I didn't upload, so, uuuh, yeah. It's old, but you'll receive it now. Simply ignore it, I forgot what I wrote, I'm not fixing it.</p><ul><li>Updated the <em>About Section</em>: It's still horrible, I changed basically nothing.</li><li>Added to the <em>Sitemap</em>: Oh no, spoilers.</li><li>Added to the <em>Contact Book</em>: 1 new button (Cool Sites)</li><li>Created the window <em>News</em>: You can finally access both the RSS (cough, cough, ATOM) feed and The RSS Webring easily! (It's not obscured under the Updates in the To-do window)</li><li>Updated the <em>Theme Editor</em>:<br /><ul><li>Added the option to turn the <em>VHS Effect</em> on and off. Someone wrote in chat that they wished there was that option because it gave them headaches, and I thought they were so right!!</li><li>Updated the <em>Fonts</em>: Now, the text inside buttons changes as well!! Also, I fixed a problem with the padding-top on the MS Sans Serif font that was bothering me more than it probably should.</li><li>Added the option to make the <em>Image Rendering</em> pixelated or smooth, changing the crispiness of a background eheheh</li><li>Added the option to change the <em>Tile Size</em>&nbsp;to small (I'm sure the tiles have a great personality, ok, plus, it's not small, it's average), medium, and big.</li></ul></li><li>Created the window <em>Player</em>: The webplayer was kinda annoying in that corner for narrower screens (aka phones), so I'm placing it in a window now!</li><li>Added to <em>The RSS Webring</em>: One new member! Daryl.</li><li>Removed from <em>The RSS Webring</em>: 1 member, Hana. Her website disappeared for some reason. I'll contact her and ask what happened :(</li><li>Removed from the <em>Contact Book</em>: 1 button (Friends / Mutuals), Hana, the same girl I had to remove from the webring TT</li></ul>]]></content>
+</entry>
+<!-- NEW ENTRY FINISH -->
+<entry>
+  <title>V5.2</title>
+  <published>2024-11-18T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-11-18:n20</id>
+  <content type="html"><![CDATA[ <p><img src="https://i.imgur.com/REQgH2P.gif"></p><ul><li>If you've seen the updates from Neocities, uuuh... ignore that (it's a school project that I didn't know where else to host LMAO + I only had two days and my website has a pretty cool but complicated theme/CSS + JS going on, so...).</li><li>Added to the <em>Contact Book</em>: 2 new buttons (<em>Other Cool Sites</em>). The <em>Other Probably Cool Websites</em>!! Section for NavLink Ads.</li><li>Changed <em>My own button &amp; Stamp</em> to <em>Link to me!!</em> (Contact Book), and added my 180px &times; 180px ad.</li><li>Added to the <em>About Me</em>: The <em>Quizzes</em> section with 4 quiz results.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V5.1</title>
+  <published>2024-11-06T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-11-07:n19</id>
+  <content type="html"><![CDATA[ <p><img src="https://i.imgur.com/8XvhorQ.png"></p><ul><li>Modified space between icons again.</li><li>Fixed style_entries.css (I broke something sometime during the development of V5 and didn't notice, oops).</li><li>Not exactly an update on the site, but I gave my name (ROM) in the chat the admin role!! Aka, a login with a password is required to use that name and be able to delete messages, which should prevent spam and people pretending to be me (not that that's ever happened, but<em>I've seen it happen</em>on other neocities, so I believe it's better to be cautious). You can now be 100% sure it's me because I have a star next to my name.</li><li>Added to the<em>Theme Editor</em>: The<em>Color</em>section, with 3 new subsections:<ul><li>HUE:&nbsp;<em>Yellow</em>(default),<em>Green</em>,<em>Turquoise</em>,<em>Blue</em>,<em>Purple</em>,<em>Pink</em>and<em>Coral</em>.</li><li>SATURATION:<em>B&amp;W</em>,<em>Dull</em>,<em>Normal</em>,<em>Neon</em>.</li><li>BRIGHTNESS:<em>Light</em>,<em>Normal</em>,<em>Dark</em>,<em>(Yet) Darker</em>.</li></ul></li><li>Added to the&nbsp;<em>Theme Editor</em>: 13 new backgrounds (4&nbsp;<em>Dark</em>, 6<em>Light</em>, 3<em>Tiles</em>)</li><li>There are combinations I found interesting written at the bottom if you don't know where to start.</li><li>The page should remember what customization options you chose and apply it the next time you visit.</li><li>Added to the&nbsp;<em>Contact Book</em>: 1 new button (<em>Cool Sites</em>).</li></ul> ]]></content>
+</entry>
+  <entry>
+  <title>V5</title>
+  <published>2024-11-06T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-11-06:n18</id>
+  <content type="html"><![CDATA[ <p><img src="https://i.imgur.com/Jxmun33.png" /></p><h1>RomOS V5 IS HERE!!</h1><p>Before listing what I've been working on, I wanted to apologise for being pretty absent and not working on the page as much as I should.</p><p>I've been really busy with school, tomorrow (as of writing this) I have to do a presentation on <i>Animation: Technical concepts and process</i> and I'm really scared. This is 10% of the final grade, a project we've been working on for "two years" (they let us only one summer to actually work on it), and I feel really bad because I didn't manage to complete my goal in time, not even 50%. They supposedly don't take the level of completion into account because the thing that matters is the research you made and new stuff you learned along the way, but... Idk.</p><p>UPDATE: IT WENT GREAT!! I'm so happy :DD The jury told me I did a great job and my animation project was amazing HEHE.</p><p>Ok, ok, I'll stop yapping now:</p><ul><li>New window: <i>Sitemap</i>, if you ever get lost or don't know what a partucular window is/does, go there!!</li><li>New window: <i>Themes</i>, you can now customize some aspects of the desktop (for now, only available in the main page, not the subpages)</li><li>I have a <i>pagedoll</i> now!! Drag it around and click it to see what it says. I made three poses for it, one still, one for when it's being dragged around and once for when its talking.</li><li>This isn't really that important but in the <i>Chat</i> there's a guide for you to know from where I am sending messages. Why? <i>ionoh</i> (translation: I don't know, said while shrugging).</li><li>A pop-up will appear (if your browser doesn't automatically block them) every 5 minutes now. Before, they appeared after 2 minutes which was fine because I supposed people didn't stay in my page too long, but now I have more stuff and I fear they will become too intrusive (they already are a pain when I forget to close the tab overnight in my laptop).</li><li>Scratch the last point, it just ocurred to me that I can just put a max of pop-ups open at the same time so... There's a limit of 5 now.</li><li>I optimized a bit the CSS, JS and File Tree... which you won't be able to see or noticed, but took a while and I'm not even 10% on my plan to clean the spaghetti code (if you didn't know, I'm not a programmer, this is the first ever coding project I'm working on outside some games with Scracth in school which... you know, that's not really "coding").</li><li>VHS effect animation is now slower. The fast animation hurt my eyes, so I hope this is better.</li></li><li>COMMENT SECTION!! On each and every one of the entries.<li>Fixed size of the ads. They should adapt to the size of the window now.</li><li>Fixed gap between icons, text under them is easier to read now.</li><li>Fixed link to the <i>RSS Feed</i> subpage.</li><li>The <i>RSS Feed</i> subpage now has a navigation bar and it links to the <i>RSS Ring</i> subpage.</li></li><li>Added the subpages: <i>Art</i> and <i>Graffiti</i> (empty for now) to the <i>Gallery</i>.</li><li>Added the subpage: <i>Graffiti</i> (empty for now) to the <i>Collection</i></li><li>Added to the <em>Contact Book</em>: 19 new buttons (1 Friends / Mutuals (previously on Cool Buttons), 18 Other Cool Buttons). Updated 1 button.</li><li>Added to the <em>Gallery - Art</em>: 60 new art pieces (I think).<ul><li>FINISHED PIECES. 2024: 4 Character Designs for my animated project, 5 Background Illustrations for my animated project, 2 Others for my animated project, 6 Art Fight Attacks, 5 Personal Work. 2023: 37 Art Fight Attacks, 1 Personal Work.</li><li>SKETCHES. 2024: 4 Character Designs for my animation project, 7 Personal Work.</li>
+</ul></ul> ]]></content>
+</entry>
+<entry>
+  <title>V4.9</title>
+  <published>2024-10-12T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-10-12:n17</id>
+  <content type="html"><![CDATA[ <p><img src="https://i.imgur.com/ssGIU2f.png" alt="" /></p><ul><li>Ok, I lied, one last update before the big one&hellip;</li><li>Added to <em>The RSS Webring</em>: 3 new members.</li><li>Joined: 1 webring (FCWL), 4 fanlists.</li><li>Added to the <em>Contact Book</em>: 5 new buttons (3 Friends / Mutuals, 2 Other Cool Buttons). Updated 1 button.</li><li>Added to the <em>Gallery</em>: 12 new stamps.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V4.8</title>
+  <published>2024-10-09T21:23:02Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-10-08:n16</id>
+  <content type="html"><![CDATA[ <p><img src="https://i.imgur.com/UWnuJVA.png"></p><ul><li>Let this be the last minor update before V.5 PLEASEE</li><li>Updated the subpage: <a href="https://mxbo.neocities.org/rss/ring">The RSS Webring</a></li><li>Added to the <i>Collection</i>: 10 new Other Stamps.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V4.7</title>
+  <published>2024-10-08T20:14:02Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-10-08:n15</id>
+  <content type="html"><![CDATA[ <p><img src="https://i.imgur.com/TPjMgRi.png"></p><ul><li>Updated my RSS page and linked it to the main page so you can actually, you know, access it.</li><li>I MADE <a href="https://mxbo.neocities.org/rss/ring">MY OWN WEBRING</a>!! For people who have RSS feeds for their personal websites and want to find other people with RSS feeds to follow.</li><li>Just expanding on the last point, making a webring was a PAIN. Not only did I have to learn three different programming languages (I forgot what they're called but the extensions were .php, .md, .scss, .toml and another one I don't remember), but THEN I made the ring with Netlify (thing I had never used before) and thought "I don't like the font of the index page" because it didn't let me import my pixelated font. So I deleted everything and tried to make one on my neocities directly, but I'm not pReMiUm (supporter), so I couldn't upload all the files, and Github (another thing I had never used before) was giving me problems. So I deleted everything again and used webri.ng, a platform that makes webrings for you with the click of a button. So my new knowledge wasn't even of use at the end :]</li><li>The Tales of a Programmer Noob, part #69.</li><li>Anyway...</li><li>You can't really see it, but I reorganized my folders and the files and the links are just a bit cleaner now on the different pages and subpages. This took so long...</li><li>Fixed a typo where one of the entries had [!] when it didn't have a TW.</li><li>Wrote 2 entries.</li><li>Added to the <i>Contact Book</i>: 1 webring (mine, blink blink), 1 friend / mutual, 4 other buttons. (I'M SO SORRY I TOOK SO LONG TO ADD THEM, I WAS WAITING FOR V.5 OF THE WEBSITE BUT STUFF HAPPENED WAA)</li></ul>]]></content>
+</entry>
+<entry>
+  <title>V4.6</title>
+  <published>2024-10-03T20:51:53Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-09-30:n14</id>
+  <content type="html"><![CDATA[ <ul><li>New <i>"Switch body class="bsubpage" font"</i> added to the desktop. I'm experimenting with fonts because I found Uni to be a bit harder to read on big walls of text. I'm thinking if I should make a theme editor...</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V.4.5</title>
+  <published>2024-10-03T09:14:55Z</published>
+  <updated>2024-10-03T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/>
+  <id>tag:mxbo.neocities.org,2024-10-03:n13</id>
+  <content type="html"><![CDATA[ <ul><li><i>Buttons</i> is now a subpage under <i>Gallery</i> instead of a collapsible.</li><li>Added to the <i>Gallery</i>: 4 new badges, 1 new button.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V4.4</title>
+  <published>2024-09-30T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/> <id>tag:mxbo.neocities.org,2024-09-30:n12</id>
+  <content type="html"><![CDATA[ <ul><li>I HAVE A GUESTBOOK NOW!!! Added at the end of the <i>Chat</i> and <i>Contact Book</i> windows.</li> <li>Added to the <i>Contact Book</i> one button under the FRIENDS / MUTUALS section.</li> <li>Added to the <i>Contact Book</i> an "I WAS HERE" stamp that links with the site!!</li> <li>Fixed some spacing things so the sections inside windows can b r e a t h.</li> </ul> ]]></content>
+</entry>
+<entry>
+  <title>V4.3</title>
+  <published>2024-09-28T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-09-28:n11</id>
+  <content type="html"><![CDATA[ <ul><li>Text is now dark cyan instead of black! I find it to be easier to the eyes.</li><li>Background of windows now has a gradient instead of pure white!! I found it really ugly before and wanted to change it for quite some time. i may change it again in the future idk.</li><li>List inside lists inside lists now are accounted for in the main CSS and have a style!!</li><li>Fixed a couple typos.</li><li>Not an update, more like a note: I will start to call sections "windows" because I thinks that's more accurate/clear (?</li> <li>Added a small Q&amp;A in the <i>Text</i> window: Someone asked something in the chat and I thought "yk what? I think it's a valid question, and I don't want the answer to be buried in the future in the chat".</li> <li>Wrote 1 entry.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V4.2</title>
+  <published>2024-09-04T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-09-04:n10</id>
+  <content type="html"><![CDATA[ <ul><li>Okkk, some time has passed without me doing any updates on the page... or without writing them, at least, but I have been updating it!! Just... not logging it</li><li>The <i>Gallery</i> not has links outside the main page!! This is because the website had some trouble loading because of how many graphics I had made the week prior to this update. Aka, had a hyperfixation on Userboxes and Stamps and got a bunch of requests for two days straight and now I gotta live with the consequences of my actions.</li><li>Created for the <i>Gallery</i> the subpages: <i>USERBOXES</i>, <i>STAMPS</i> and <i>BLINKIES &amp; BADGES</i>.</li><li>Fixed the favicons because a while back I moved the png in a subfolder because I was organizing things (aka back in V4) and didn't even notice/fix it until now lmao.</li><li>Joined the TTI webring.</li><li>The total of graphics in the <i>Gallery</i> has been brought up to: 133 userboxes, 127 stamps.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V4.1</title>
+  <published>2024-08-26T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-26:n9</id>
+  <content type="html"><![CDATA[ <ul><li>The previous <i>Gallery</i> section has been split in two: <i>Gallery</i> and <i>Collection</i>. I PROMISE THIS WON'T BE CONFUSING AT ALL!!</li><li>The <i>Gallery</i> has been renamed to <i>Collection</i>.</li><li>A new section has been created: <i>Gallery</i>.</li><li>Graphics I made <strong>myself</strong> have been moved from the <i>Collection</i> to the <i>Gallery</i>.</li><li>Graphics I aquire from other sources will stay in the <i>Collection</i>.</li><li>Added to the <i>Gallery</i>: 40 new stamps, 125 new userboxes.</li><li>Added to the <i>Collection</i>: Nothing lmaon't.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V4</title>
+  <published>2024-08-21T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-21:n8</id>
+  <content type="html"><![CDATA[ <h1>RomOS V4 IS HERE!!</h1><ul><li>Created the Shrines section.</li><li>Created a Shrine to my light and planned a Shrine to Shadow The Hedgehog.</li><li>Created for my light's Shrine the pages: <i>Home</i>, <i>Our Relationship</i> and <i>About her</i>.</li><li>Added the <a href="https://webdeckplayer.neocities.org"><i>webdeck player</i></a> (music player developed by <a href="https://github.com/cristiancfm">Chris</a>) in my desktop!!</li><li>NEW CURSORS!! They're now pixel art and made by me. They are also more precise (before, the images were offset).</li><li>I have a TamaNOTchi now!! Her name is CarlitOS. I'm a busy dad so please feed it for me if you can (she's probably hungry or worse, starving).</li><li>There is now a counter for the number of visitors, but idk if it works, I'll have to upload this V4 to neocities to find out, we'll see HEHE</li><li>Button sections are now linked!! Which means if I add a button to the Gallery, it will appear in the taskbar as well.</li><li>You can't really see it but the way I orginized my files BOFF, it's actually not as messy as it was before and I now have subfolders for my images instead of all the images being in one place.</li><li>Imported to the webdeck player: 3 new playlists (<i>Cooking Daddy</i> (49 songs), <i>Cooking Daddy's Meal</i> (43 songs), <i>Normal Playlist</i> (28 songs) and <i>TF2 but only the ones I like</i> (27 songs)).</li><li>Joined the bucket webring, the no-ai webring and applied to the TTI webring.</li><li>Added to the Contact Book: 8 new buttons and 3 new webrings (Bucket Webring, No-AI Webring and TTI (which I am not oficially a part of atm, waiting for my application to be accepted)).</li><li>Added to the collection: 24 new buttons.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V3.1</title>
+  <published>2024-08-19T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-19:n7</id>
+  <content type="html"><![CDATA[ <ul><li>Created the Contact Book section to place the buttons I have that lead to other websites, as opposed to just be aesthetic. There, there's also a space for the webrings I join and my friends (aka Marcie when the V1 of her website comes out).</li><li>New cursors!!</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V3</title>
+  <published>2024-08-19T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-19:n6</id>
+  <content type="html"><![CDATA[ <h1>RomOS V3 IS HERE!!</h1><ul><li>Added the Best Seach Engine™ (VHSearch! for searching Neocities) as an iframe :D</li><li>Added, also as an iframe, MS (heavily inspired) PAINT.</li><li>Headers (h1) don't suck now lmao</li><li>Title images and another two types of images get like 10% bigger when hovered so that means they're 10% cooler now!</li><li>The graphics in the Gallery section also get a bit bigger when hovered so they're 200% more satisfying now.</li><li>Move the updates to the To-do section because it makes more sense for it to be here!?!?!</li><li>THE TASKBAR DOESN'T SUCK ANYMORE EITHER LET'S GOOOO!!!! It has cool buttons and (most of them) are clickable, if not to their credits, to a related article :D</li><li>P.1 of "Plan: Enhance Gallery" executed perfectly!! The different graphics/sections are collapsible now.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V2.2</title>
+  <published>2024-08-17T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-17:n5</id>
+  <content type="html"><![CDATA[ <ul><li>So, in the last update I DIDN'T solve the bug with the pop-ups, but it's ok because:</li><li>The pop-ups are now 100% more annoying! Being actual windows that pop-up outside this website like when piracing a movie &lt;3</li><li>Changed slightly the padding on the different elements.</li><li>Text is now intented!!</li><li>Tweaked the font size and spece between letters and lines.</li><li>Images are now <i>c r i s p y</i> instead of blurry (ew) when upscaled. This can be seen in the gallery.</li><li>Added my button on the bottom right corner of the desktop!!</li><li>Added to the collection: 12 new stamps (12 made by me); 11 new buttons (5 that lead to other websites), (5 aesthetic ones), (1 made by me, my personal button!!)</li><li>Wrote 3 entries.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V2.1</title>
+  <published>2024-08-08T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-08:n4</id>
+  <content type="html"><![CDATA[ <ul><li>Fixed the loading screen because for some reason it only worked on Edge??</li> <li>Solved (I think) a bug where, if the website was not visible (eg. the visitor switched tabs), the pop-up would keep track of the times it was supposed to appear and dissapear and, once the visitor came back, would load all the events one after the other. Aka, if you had better things to do, but you returned, the ad would go crazy like fade-in, fade-out, fade-in, fade-out, fade-in, fade-out, fade-in, fade-out...</li> <li>Changed slightly the padding on the different elements.</li> <li>Fixed minor spelling mistake in one of the entries (I win).</li> <li>Added to the collection: 24 new stamps (14 made by me), 12 userboxes (12 made by me), 2 badges.</li> <li>Wrote 1 entry.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V2</title>
+  <published>2024-08-04T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-04:n3</id>
+  <content type="html"><![CDATA[ <h1>RomOS V2 IS HERE!!</h1><ul><li>Solved a bug where a window wouldn't close if it had been minimized before.</li> <li>Added a loading screen.</li> <li>Added a pop-up ad.</li> <li>Added the <i>Updates</i> subsection inside the <i>WIP</i> section ;]</li> <li>Added a drop-shadow to all graphics in the <i>Gallery</i> section for aesthetic reasons and because it's easier to see they're links.</li> <li>Made it so that all entries are closed by default.</li> <li>Ordered the entries by month.</li> <li>Figured out how to make all the buttons sit one after the other correctly in the <i>Text</i> section.</li> <li>Changed the formatting a bit.</li> <li>Wrote new content in the <i>About</i> section.</li> <li>Updated to-do list.</li> <li>Wrote 1 entry.</li> <li>Added to the collection: 13 new blinkies (1 made by me), 16 new stamps (16 made by me), 2 new badges (2 made by me), 2 buttons to other websites.</li> </ul> ]]></content>
+</entry>
+<entry>
+  <title>V1.1</title>
+  <published>2024-08-03T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-03:n2</id>
+  <content type="html"><![CDATA[ <ul><li>Wrote 1 entry.</li></ul> ]]></content>
+</entry>
+<entry>
+  <title>V1</title>
+  <published>2024-08-02T15:00:00Z</published>
+  <updated>2025-03-13T09:59:23Z</updated>
+  <link rel="related" href="https://mxbo.neocities.org"/><id>tag:mxbo.neocities.org,2024-08-02:n1</id>
+  <content type="html"><![CDATA[ <p><img src="https://mxbo.neocities.org/img/misc/titles_done.PNG"></p> <h1>THE beningin OF OUR ADVENTURE!!</h1><p>I'm so cringe TT. Anyway I have an RSS feed now, epic.</p><ul><li>Developed a nice and consistent colour palette to use in the future.</li><li>Edited a template and developed it further so you can actually look at it without crying.<ul><li>Solved a bug it had with the resize handles in the windows. They used to move with the text when scrolling.</li></ul></li><li>Finished the basic outline for the website.</li><li>Added the <i>About</i>, <i>WIP</i>, <i>To-Do</i>, <i>Chat</i>, <i>Gallery</i>, <i>Text</i>, <i>WIP</i> (2) and <i>Credits</i> sections.</li><li>Wrote 2 entries.</li><li>Added to the collection: 11 new blinkies, 7 new stamps, 32 new badges and 11 new userboxes.</li></ul> ]]></content>
+</entry>
+</feed>
+          

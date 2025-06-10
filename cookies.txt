@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dropboxusercontent.com	TRUE	/	FALSE	1999999999	uc_session	2U28WjsMwG8Pn1AohzMa7JFuIZTLmAEEyJCIDHoFW1UufDSiNMSYRbQuqQuh9F7k
+dl.dropboxusercontent.com	TRUE	/	FALSE	1999999999	SameSite	None
+

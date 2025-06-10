@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Jun 2025 11:59:43 at https://mxbo.neocities.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mxbo.neocities.org/ -O1 "C:\Users\moham\Downloads\Memecoins\framer\https___mxbo.neocities.org_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:02:01	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/entries/entry014 (from https://mxbo.neocities.org/)
+12:02:01	Error: 	"Not Found" (404) at link https://bekianee.nekoweb.org/Assets/Beki_button.gif (from https://mxbo.neocities.org/)
+12:02:01	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/soulbox.neocities.com (from https://mxbo.neocities.org/)
+12:02:05	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/fantasylife/ (from https://mxbo.neocities.org/)
+12:03:59	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/bg.gif (from https://mxbo.neocities.org/style.css)
+12:03:59	Error: 	"Unauthorized" (401) at link https://ice-creme.de/images/background-noise.png (from https://mxbo.neocities.org/style.css)
+12:03:59	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/rss/webring (from https://mxbo.neocities.org/rss/feed)
+12:03:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mxbo.neocities.org/index (from https://mxbo.neocities.org/collection/stamps)
+12:03:59	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/entries/script.js (from https://mxbo.neocities.org/entries/entry001)
+12:04:05	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/mylight/WRONG.mp3 (from https://mxbo.neocities.org/mylight/)
+12:04:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mxbo.neocities.org/img/art/2024_AF4.png (from https://mxbo.neocities.org/gallery/art)
+12:04:05	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/favicon.ico (from https://mxbo.neocities.org/webdeck-player/)
+12:04:06	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/rss/news.xml (from https://mxbo.neocities.org/rss/ring)
+12:04:06	Warning: 	Moved Permanently for https://mxbo.neocities.org/index
+12:04:06	Warning: 	File has moved from https://mxbo.neocities.org/index to https://mxbo.neocities.org/
+12:04:06	Error: 	"Not Found" (404) at link https://mxbo.neocities.org/mylight/mylight (from https://mxbo.neocities.org/mylight/abouther)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 23 seconds : 824 links scanned, 808 files written (35633647 bytes overall) [34931559 bytes received at 132819 bytes/sec], 1830689 bytes transferred using HTTP compression in 56 files, ratio 28%, 9.0 requests per connection
+(12 errors, 4 warnings, 0 messages)

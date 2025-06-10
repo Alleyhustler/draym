@@ -1,0 +1,85 @@
+@font-face { font-family: Uni; src: url(fonts/uni05_53.ttf); } 
+@font-face { font-family: Uni; font-weight: bold; src: url(fonts/uni05_63.ttf);}
+
+body {
+    font-family: 'Uni';
+    text-align: justify;
+    margin-right: 7px;
+    font-size: 12px;
+    color: white;
+    background-color: #474747;
+    font-smooth: never;
+}
+/* unvisited link */
+a:link {
+  color: #FFDC60;
+}
+
+/* visited link */
+a:visited {
+  color: violet;
+}
+
+/* mouse over link */
+a:hover {
+  color: skyblue;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+.accent{
+    background: linear-gradient(to right, #FFDC60, red);
+    background-clip: text;
+    font-size: 16px;
+    -webkit-text-fill-color: transparent;
+}
+.accent2{
+    background: linear-gradient(red, #FFDC60);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.done{
+    text-decoration: line-through;
+}
+.info{
+    text-align: left;
+    list-style: none;
+    line-height: 0.8;
+    background-color: #161616;
+    border: ridge #7d7d7d 4px;
+    padding: 10px
+}
+u{
+    text-decoration: underline;
+    color: #FFDC60
+}
+li{
+    list-style-position: inside;
+    list-style: '✦ ';
+    margin-left: -20px;
+    margin-bottom: 10px;
+}
+li li{
+    list-style: '✧ ';
+    list-style-position: inside;
+    margin-left: 0;
+}
+h1{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+    padding-bottom: 6px;
+    background-image: linear-gradient(#FFE37D, #FFE37D, #EA8048, #F6B355,#F6B355);
+    -webkit-background-clip: text;
+    background-clip: text;
+    word-wrap:break-all;
+    overflow-wrap: inherit;
+    color: transparent!important;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
